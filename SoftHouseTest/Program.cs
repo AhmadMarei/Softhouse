@@ -19,9 +19,16 @@ class Program
         };
 
         var converter = new PeopleConverter();
-        var xmlOutput = converter.ConvertToXml(inputLines);
+        try
+        {
+            var xmlOutput = converter.ConvertToXml(inputLines);
+            Console.WriteLine(xmlOutput);
+        }
+        catch (InvalidOperationException ex)
+        {
+            Console.WriteLine($"Fel uppstod vid konvertering: {ex.Message}");
+        }
 
-        Console.WriteLine(xmlOutput);
     }
 }
 
