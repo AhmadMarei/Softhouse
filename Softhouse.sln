@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftHouseTest", "SoftHouseTest\SoftHouseTest.csproj", "{EDC1205C-7F9C-5816-4E52-B5EB3BA2B9DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftHouseTestXunitTest", "SoftHouseTestXunitTest\SoftHouseTestXunitTest.csproj", "{EB2BB41C-1FFA-4821-AD75-A09FFBC6CF71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC1205C-7F9C-5816-4E52-B5EB3BA2B9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC1205C-7F9C-5816-4E52-B5EB3BA2B9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC1205C-7F9C-5816-4E52-B5EB3BA2B9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC1205C-7F9C-5816-4E52-B5EB3BA2B9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2BB41C-1FFA-4821-AD75-A09FFBC6CF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2BB41C-1FFA-4821-AD75-A09FFBC6CF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2BB41C-1FFA-4821-AD75-A09FFBC6CF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2BB41C-1FFA-4821-AD75-A09FFBC6CF71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2E14B96-0203-48CC-8B5E-630F94F0612B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\enahm\OneDrive\Desktop\Softhouse\SoftHouseTest\bin\Debug\net6.0\SoftHouseTest.exe
+C:\Users\enahm\OneDrive\Desktop\Softhouse\SoftHouseTest\bin\Debug\net6.0\SoftHouseTest.deps.json
+C:\Users\enahm\OneDrive\Desktop\Softhouse\SoftHouseTest\bin\Debug\net6.0\SoftHouseTest.runtimeconfig.json
+C:\Users\enahm\OneDrive\Desktop\Softhouse\SoftHouseTest\bin\Debug\net6.0\SoftHouseTest.dll
+C:\Users\enahm\OneDrive\Desktop\Softhouse\SoftHouseTest\bin\Debug\net6.0\SoftHouseTest.pdb
+C:\Users\enahm\OneDrive\Desktop\Softhouse\SoftHouseTest\obj\Debug\net6.0\SoftHouseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enahm\OneDrive\Desktop\Softhouse\SoftHouseTest\obj\Debug\net6.0\SoftHouseTest.AssemblyInfoInputs.cache
+C:\Users\enahm\OneDrive\Desktop\Softhouse\SoftHouseTest\obj\Debug\net6.0\SoftHouseTest.AssemblyInfo.cs
+C:\Users\enahm\OneDrive\Desktop\Softhouse\SoftHouseTest\obj\Debug\net6.0\SoftHouseTest.csproj.CoreCompileInputs.cache
+C:\Users\enahm\OneDrive\Desktop\Softhouse\SoftHouseTest\obj\Debug\net6.0\SoftHouseTest.dll
+C:\Users\enahm\OneDrive\Desktop\Softhouse\SoftHouseTest\obj\Debug\net6.0\refint\SoftHouseTest.dll
+C:\Users\enahm\OneDrive\Desktop\Softhouse\SoftHouseTest\obj\Debug\net6.0\SoftHouseTest.pdb
+C:\Users\enahm\OneDrive\Desktop\Softhouse\SoftHouseTest\obj\Debug\net6.0\SoftHouseTest.genruntimeconfig.cache
+C:\Users\enahm\OneDrive\Desktop\Softhouse\SoftHouseTest\obj\Debug\net6.0\ref\SoftHouseTest.dll
