@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoftHouseTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+880770f2242cffb9714836092f96576e0292b983")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoftHouseTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoftHouseTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
